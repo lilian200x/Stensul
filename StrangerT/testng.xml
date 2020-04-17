@@ -1,0 +1,7 @@
+<suite name="SuiteS">
+  <test name="TestS">
+    <classes>
+      <class name="StrangerTCs.TestPage"/>
+    </classes>
+  </test> <!-- TestS -->
+</suite> <!-- SuiteS -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SuiteS" duration-ms="6675" started-at="2020-04-17T04:58:52Z" finished-at="2020-04-17T04:58:59Z">
+    <groups>
+    </groups>
+    <test name="TestS" duration-ms="6675" started-at="2020-04-17T04:58:52Z" finished-at="2020-04-17T04:58:59Z">
+      <class name="StrangerTCs.TestPage">
+        <test-method status="PASS" signature="setUpPage()[pri:0, instance:StrangerTCs.TestPage@1efe439d]" name="setUpPage" is-config="true" duration-ms="3924" started-at="2020-04-17T04:58:52Z" finished-at="2020-04-17T04:58:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method status="PASS" signature="ExecuteTests()[pri:0, instance:StrangerTCs.TestPage@1efe439d]" name="ExecuteTests" duration-ms="2516" started-at="2020-04-17T04:58:56Z" finished-at="2020-04-17T04:58:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExecuteTests -->
+        <test-method status="PASS" signature="CloseTest()[pri:0, instance:StrangerTCs.TestPage@1efe439d]" name="CloseTest" is-config="true" duration-ms="170" started-at="2020-04-17T04:58:58Z" finished-at="2020-04-17T04:58:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseTest -->
+      </class> <!-- StrangerTCs.TestPage -->
+    </test> <!-- TestS -->
+  </suite> <!-- SuiteS -->
+</testng-results>
